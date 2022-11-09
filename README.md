@@ -7,7 +7,7 @@
 
 ## About <a name = "about"></a>
 
-This java software allows to convert the speed in km/h in miles and vice versa
+This java application allows to convert the speed in km/h in miles and vice versa
 
 ## Getting Started <a name = "getting_started"></a>
 
